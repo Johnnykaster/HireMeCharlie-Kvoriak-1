@@ -1,0 +1,57 @@
+.pac {
+    width:400px;
+    border:20px groove green;
+}
+.image {
+    text-align: center;
+}
+ul {
+    list-style: inside;
+}
+h3 {
+    text-align: center;
+    font-family: 'Patua One', cursive;
+}
+h1 {
+    text-align: center;
+}
+body {
+
+    background: lightblue;
+    text-align:center;
+}
+.Video {
+    font-size:25px;
+    font-family: 'Patua One', cursive;
+}
+.Bass {
+    font-size: 25px;
+    font-family: 'Patua One', cursive;
+}
+.bimage {
+    width: 400px;
+    border:20px groove green;
+}
+.bparent {
+    text-align: center;
+}
+.Code {
+    font-size: 25px;
+    font-family: 'Patua One', cursive;
+}
+.matrix {
+    text-align: center;
+}
+.matrix1 {
+    width: 440px;
+    border:25px groove green;
+}
+h1{
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+h2{
+   font-family: 'Patua One', cursive;
+}
+p {
+    font-family: 'Patua One', cursive;
+}
